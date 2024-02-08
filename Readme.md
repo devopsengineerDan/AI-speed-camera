@@ -1,6 +1,7 @@
 # SPEED CAMERA - Object Motion Tracker [![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)](https://github.com/thibmaek/awesome-raspberry-pi)
 ### RPI, Unix and Windows Speed Camera Using python, openCV, RPI camera module, USB Cam or IP Cam
 ## For Details See [Program Features](https://github.com/pageauc/speed-camera/wiki/Program-Description#program-features), [Wiki Instructions](https://github.com/pageauc/speed-camera/wiki) and [YouTube Videos](https://github.com/pageauc/speed-camera#reference-links).
+A Unix, Windows, Raspberry Pi Object Speed Camera using python, opencv, video streaming, motion tracking.  Includes a Standalone Web Server Interface, Image Search using opencv template match and a whiptail Admin Menu Interface  Includes picam and webcam Plugins for motion track security camera configuration including rclone sync script.  watch-app allows remotely controller camera configuration from a remote storage service name. Uses sqlite3 and gnuplot for reporting. Recently added openalpr license plate reader support.
 
 ## Note re Bullseye: 
 Speed-cam.py ver 11.26 and greater will now run under Raspberry Pi OS Bullseye or later with a pi camera module as well as usbcam and IP/RTSP cameras. 
